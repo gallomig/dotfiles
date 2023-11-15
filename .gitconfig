@@ -1,0 +1,11 @@
+[user]
+	name = ben
+	email = gallomig@googlemail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[pull]
+	rebase = false
+[core]
+	editor = code --wait
